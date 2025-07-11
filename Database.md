@@ -1,13 +1,13 @@
 #### Users Table
 
 |column name|comment|
-|:-:|:-:|
+|:-|:-|
 |Address|Primary Key|
 |Chain|[Ethereum, Imua, Zetachain]|
 
 #### Contracts Table
 |column name|comment|
-|:-:|:-:|
+|:-|:-|
 |ContractAddress|Primary Key|
 |DeployChain|Deployment chain|
 |DeployChainId|Deployment ID|
@@ -16,7 +16,7 @@
 
 ### CrossBridgeRecords
 |column name|comment|
-|:-:|:-:|
+|:-|:-|
 |id|Primary Key|
 |sourceChain|Source Chain|
 |sourceChainId|Source ChainId|
@@ -44,7 +44,7 @@
 
 ### Logs
 |column name|comment|
-|:-:|:-:|
+|:-|:-|
 |id|Primary Key|
 |address|Foreign Key|
 |event|Event(connect;bridge)|
