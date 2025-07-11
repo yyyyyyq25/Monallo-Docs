@@ -52,3 +52,5 @@
 |Browser|Obtain the user's browser Type|
 |System|Obtain the user's operating System|
 |timestamp|TimeStamp|
+
+![pic](./erdatabase.png)
